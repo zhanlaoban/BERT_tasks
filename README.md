@@ -5,9 +5,6 @@
 # 1. Text Classification
 
 使用BERT微调实现中文文本分类
-
-[TOC]
-
  
 
 # 环境：
